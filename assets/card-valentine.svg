@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="200" viewBox="0 0 560 200" role="img" aria-label="Valentine Question">
+  <defs>
+    <linearGradient id="cbg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#121633"/><stop offset="1" stop-color="#0b0d1d"/></linearGradient>
+    <linearGradient id="cb" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="560" y2="200">
+      <stop offset="0" stop-color="#ff4f9a"/><stop offset=".5" stop-color="#8b5cf6" stop-opacity=".2"/><stop offset="1" stop-color="#22d3ee"/>
+      <animateTransform attributeName="gradientTransform" type="rotate" values="0 280 100;360 280 100" dur="7s" repeatCount="indefinite"/>
+    </linearGradient>
+    <radialGradient id="cglow"><stop offset="0" stop-color="#ff4f9a" stop-opacity=".4"/><stop offset="1" stop-color="#ff4f9a" stop-opacity="0"/></radialGradient>
+    <clipPath id="cc"><rect x="1" y="1" width="558" height="198" rx="20"/></clipPath>
+  </defs>
+  <style>
+    text { font-family: 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; }
+    .title { font-size: 24px; font-weight: 800; fill: #f8fafc; }
+    .desc { font-size: 15.5px; fill: #cbd5e1; }
+    .tag { font-size: 12.5px; font-weight: 700; fill: #e2e8f0; }
+    .lang { font-size: 13px; font-weight: 600; fill: #94a3b8; }
+    .glow { transform-box: fill-box; transform-origin: center; animation: breathe 5s ease-in-out infinite; }
+    @keyframes breathe { 0%, 100% { opacity: .6; transform: scale(1); } 50% { opacity: 1; transform: scale(1.15); } }
+  </style>
+  <g clip-path="url(#cc)">
+    <rect width="560" height="200" fill="url(#cbg)"/>
+    <circle class="glow" cx="500" cy="20" r="170" fill="url(#cglow)"/>
+  </g>
+  <rect x="1" y="1" width="558" height="198" rx="20" fill="none" stroke="url(#cb)" stroke-width="2"/>
+  <text x="28" y="56" font-size="30">💘</text>
+  <text x="74" y="54" class="title">Valentine Question</text>
+  <text x="522" y="50" font-size="22" fill="#ff4f9a" text-anchor="end" font-weight="700">↗</text>
+  <text y="90" class="desc"><tspan x="28" dy="0">A cinematic proposal site: starry intro, love quiz,</tspan><tspan x="28" dy="22">an uncatchable NO button and canvas fireworks.</tspan></text>
+  <rect x="28" y="146" width="62" height="28" rx="14" fill="#ff4f9a" fill-opacity=".14" stroke="#ff4f9a" stroke-opacity=".45"/><text x="59" y="165" text-anchor="middle" class="tag">React</text><rect x="98" y="146" width="100" height="28" rx="14" fill="#ff4f9a" fill-opacity=".14" stroke="#ff4f9a" stroke-opacity=".45"/><text x="148" y="165" text-anchor="middle" class="tag">TypeScript</text><rect x="206" y="146" width="70" height="28" rx="14" fill="#ff4f9a" fill-opacity=".14" stroke="#ff4f9a" stroke-opacity=".45"/><text x="241" y="165" text-anchor="middle" class="tag">Motion</text><rect x="284" y="146" width="70" height="28" rx="14" fill="#ff4f9a" fill-opacity=".14" stroke="#ff4f9a" stroke-opacity=".45"/><text x="318" y="165" text-anchor="middle" class="tag">Canvas</text>
+  <circle cx="444" cy="160" r="6" fill="#3178c6"/>
+  <text x="532" y="165" text-anchor="end" class="lang">TypeScript</text>
+</svg>

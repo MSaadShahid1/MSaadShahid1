@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="180" viewBox="0 0 1200 180" role="img" aria-label="Thanks for visiting">
+  <defs>
+    <linearGradient id="w1" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#ff4f9a"/><stop offset=".5" stop-color="#8b5cf6"/><stop offset="1" stop-color="#22d3ee"/></linearGradient>
+    <linearGradient id="w2" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#22d3ee"/><stop offset="1" stop-color="#8b5cf6"/></linearGradient>
+  </defs>
+  <style>
+    text { font-family: 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; }
+    .msg { font-size: 24px; font-weight: 800; fill: #fff; }
+    .sub { font-size: 15px; font-weight: 600; fill: #ffffff; fill-opacity: .85; }
+  </style>
+  <g opacity=".45">
+    <path fill="url(#w2)" d="M0 70 C150 30 300 110 450 70 S750 30 900 70 S1200 110 1350 70 S1650 30 1800 70 S2100 110 2250 70 S2550 30 2400 70 V180 H0 Z">
+      <animateTransform attributeName="transform" type="translate" values="0 0;-900 0" dur="14s" repeatCount="indefinite"/>
+    </path>
+  </g>
+  <path fill="url(#w1)" d="M0 90 C150 60 300 120 450 90 S750 60 900 90 S1200 120 1350 90 S1650 60 1800 90 S2100 120 2250 90 S2550 60 2400 90 V180 H0 Z">
+    <animateTransform attributeName="transform" type="translate" values="-900 0;0 0" dur="10s" repeatCount="indefinite"/>
+  </path>
+  <text x="600" y="140" text-anchor="middle" class="msg">Thanks for stopping by ✨</text>
+  <text x="600" y="166" text-anchor="middle" class="sub">Let’s build something people remember.</text>
+</svg>
