@@ -56,6 +56,8 @@
 </style>
 <linearGradient id="fadeTop" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0d1117"/><stop offset="1" stop-color="#0d1117" stop-opacity="0"/></linearGradient>
 <linearGradient id="fadeBot" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0d1117" stop-opacity="0"/><stop offset="1" stop-color="#0d1117"/></linearGradient>
+<linearGradient id="seamTop" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0b0f2a"/><stop offset="1" stop-color="#0b0f2a" stop-opacity="0"/></linearGradient>
+<linearGradient id="seamBot" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0b0f2a" stop-opacity="0"/><stop offset="1" stop-color="#0b0f2a"/></linearGradient>
 <linearGradient id="gFlame" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fff7c2"/><stop offset=".35" stop-color="#ffd23f"/><stop offset=".75" stop-color="#ff8a3d"/><stop offset="1" stop-color="#ff3d9a" stop-opacity="0"/></linearGradient>
 <radialGradient id="gByte" cx=".38" cy=".3" r=".8"><stop offset="0" stop-color="#ffffff"/><stop offset=".6" stop-color="#e8eefc"/><stop offset="1" stop-color="#b9c6ea"/></radialGradient>
 <radialGradient id="gGreen"><stop offset="0" stop-color="#39ff88" stop-opacity=".75"/><stop offset=".45" stop-color="#39ff88" stop-opacity=".22"/><stop offset="1" stop-color="#39ff88" stop-opacity="0"/></radialGradient>
