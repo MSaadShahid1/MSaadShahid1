@@ -1,81 +1,32 @@
-<p align="center">
-  <img src="./assets/header.svg" width="100%" alt="Muhammad Saad — AI Engineer · Computer Vision · Full-Stack Web Developer" />
-</p>
-
-<p align="center">
-  <a href="https://msaadshahid1.github.io/"><img src="https://img.shields.io/badge/Portfolio-msaadshahid1.github.io-ff4f9a?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/muhammad-saad-shahid-068ba519b/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://x.com/Muhamma06001032"><img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" /></a>
-  <a href="mailto:bilalft05@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <img src="https://komarev.com/ghpvc/?username=MSaadShahid1&label=Profile%20views&color=8b5cf6&style=for-the-badge" alt="Profile views" />
-</p>
-
-<p align="center"><img src="./assets/divider.svg" width="100%" alt="" /></p>
-
-## 🧠 About me
-
-<p align="center">
-  <img src="./assets/terminal.svg" width="90%" alt="Terminal: Muhammad Saad — AI and web developer from Islamabad, Pakistan" />
-</p>
-
-- 🎓 **MS in Artificial Intelligence** — Air University, Islamabad (2022–2024), specialising in **Computer Vision**
-- 🔬 Thesis: **breast-cancer classification & segmentation from MRI**
-- 🤖 Freelance **AI developer** since 2022 — deep-learning and computer-vision models, from data cleaning to deployment
-- 🌐 Freelance **web developer** since 2019 — responsive, fast websites and web apps with Laravel, Vue.js and React
-- ⚡ Fun fact: I built a Valentine's proposal site where the **NO** button is mathematically uncatchable 😄
-
-## 🛠️ Tech stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
-  <img src="https://img.shields.io/badge/Computer%20Vision-8b5cf6?style=for-the-badge" alt="Computer Vision" />
-  <img src="https://img.shields.io/badge/Deep%20Learning-6d28d9?style=for-the-badge" alt="Deep Learning" />
-  <img src="https://img.shields.io/badge/NLP%20%26%20LLMs-ff4f9a?style=for-the-badge" alt="NLP and LLMs" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white" alt="CSS" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge" alt="SQL" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white" alt="GitHub Pages" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge" alt="VS Code" />
-</p>
-
-## 🚀 Featured projects
-
-<p align="center">
-  <a href="https://github.com/MSaadShahid1/valentine-question"><img src="./assets/card-valentine.svg" width="49%" alt="Valentine Question — cinematic interactive proposal website" /></a>
-  <a href="https://github.com/MSaadShahid1/ScholarMind"><img src="./assets/card-scholarmind.svg" width="49%" alt="ScholarMind — LLM-powered academic co-author" /></a>
-  <a href="https://github.com/MSaadShahid1/healthcare-claims-pipeline"><img src="./assets/card-claims.svg" width="49%" alt="Healthcare Claims Pipeline — EMR claims validation" /></a>
-  <a href="https://msaadshahid1.github.io/"><img src="./assets/card-portfolio.svg" width="49%" alt="Personal portfolio website" /></a>
-</p>
-
-<p align="center">
-  <a href="https://msaadshahid1.github.io/valentine-question/"><b>💘 Try the Valentine site live →</b></a>
-</p>
-
-## 🛤️ My journey
-
-<p align="center">
-  <img src="./assets/journey.svg" width="100%" alt="Career timeline from 2017 to now" />
-</p>
+<div align="center">
+<img src="./assets/hero.svg" width="100%" alt="Muhammad Saad — AI Engineer, Computer Vision and Full-Stack Web Developer from Islamabad, Pakistan" />
+<a href="https://msaadshahid1.github.io/"><img src="./assets/btn-portfolio.svg" width="24%" alt="Portfolio — msaadshahid1.github.io" /></a>
+<a href="https://www.linkedin.com/in/muhammad-saad-shahid-068ba519b/"><img src="./assets/btn-linkedin.svg" width="24%" alt="LinkedIn" /></a>
+<a href="https://x.com/Muhamma06001032"><img src="./assets/btn-x.svg" width="24%" alt="Follow on X" /></a>
+<a href="mailto:bilalft05@gmail.com"><img src="./assets/btn-email.svg" width="24%" alt="Email me" /></a>
+<img src="./assets/about.svg" width="100%" alt="Hero profile: AI engineer and full-stack web developer, MS in Artificial Intelligence from Air University, thesis on breast-cancer MRI classification and segmentation" />
+<img src="./assets/forms.svg" width="100%" alt="Hero forms: computer vision, deep learning, full-stack web and data mining" />
+<img src="./assets/arsenal.svg" width="100%" alt="Tech arsenal: Python, PyTorch, TensorFlow, Jupyter, TypeScript, JavaScript, React, Vue.js, Laravel, PHP, jQuery, HTML5, CSS, Vite, SQL, Git, GitHub, VS Code" />
+<img src="./assets/missions.svg" width="100%" alt="Mission log: featured projects" />
+<a href="https://github.com/MSaadShahid1/valentine-question"><img src="./assets/card-valentine.svg" width="49%" alt="Mission 01: Valentine Question — cinematic interactive proposal website" /></a>
+<a href="https://github.com/MSaadShahid1/ScholarMind"><img src="./assets/card-scholarmind.svg" width="49%" alt="Mission 02: ScholarMind — LLM-powered academic co-author" /></a>
+<a href="https://github.com/MSaadShahid1/healthcare-claims-pipeline"><img src="./assets/card-claims.svg" width="49%" alt="Mission 03: Healthcare Claims Pipeline — EMR claims validation" /></a>
+<a href="https://msaadshahid1.github.io/"><img src="./assets/card-portfolio.svg" width="49%" alt="Mission 04: Personal portfolio website" /></a>
+<img src="./assets/journey.svg" width="100%" alt="Origin story: career timeline from 2017 to now" />
+<a href="mailto:bilalft05@gmail.com"><img src="./assets/signal.svg" width="100%" alt="Need a hero for your next project? Send the signal: bilalft05@gmail.com" /></a>
+<img src="./assets/footer.svg" width="100%" alt="To be continued — thanks for visiting" />
+<img src="https://komarev.com/ghpvc/?username=MSaadShahid1&label=HEROES%20WHO%20VISITED&color=39ff88&style=for-the-badge" alt="Profile views" />
+</div>
 
 <details>
-  <summary>📄 Text version</summary>
+<summary>📜 Text version</summary>
+
+**Muhammad Saad** — AI Engineer · Computer Vision · Full-Stack Web Developer, Islamabad, Pakistan.
+
+- 🎓 MS in Artificial Intelligence — Air University, Islamabad (2022–2024), specialising in computer vision; thesis on breast-cancer classification and segmentation from MRI
+- 🤖 Freelance AI developer — deep-learning and computer-vision models, from data cleaning to deployment
+- 🌐 Freelance web developer since 2019 — Laravel, Vue.js, React
+- 💘 [Try the Valentine site live](https://msaadshahid1.github.io/valentine-question/) — the NO button is uncatchable
 
 | Year | Milestone |
 | --- | --- |
@@ -87,11 +38,6 @@
 | 2022–2024 | MS Artificial Intelligence — Air University, Islamabad |
 | Now | Freelance AI &amp; Web Engineer — open to new projects |
 
+<sub>Artwork is hand-coded animated SVG. Fonts: Bangers and Chakra Petch (SIL Open Font License).</sub>
+
 </details>
-
-## 🤝 Let's work together
-
-I'm available for freelance **AI / machine-learning**, **computer-vision** and **web-development** projects — from a model that needs training to a website that needs to feel alive.
-Find me on [LinkedIn](https://www.linkedin.com/in/muhammad-saad-shahid-068ba519b/), visit my [portfolio](https://msaadshahid1.github.io/), or [send an email](mailto:bilalft05@gmail.com).
-
-<p align="center"><img src="./assets/footer.svg" width="100%" alt="Thanks for stopping by" /></p>
