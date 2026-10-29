@@ -8,6 +8,7 @@
 <a href="https://github.com/MSaadShahid1/valentine-question"><img src="./assets/card-valentine.svg" width="50%" align="top" alt="Mission 01: Valentine Question — cinematic interactive proposal website" /></a><a href="https://github.com/MSaadShahid1/ScholarMind"><img src="./assets/card-scholarmind.svg" width="50%" align="top" alt="Mission 02: ScholarMind — LLM-powered academic co-author" /></a>
 <a href="https://github.com/MSaadShahid1/healthcare-claims-pipeline"><img src="./assets/card-claims.svg" width="50%" align="top" alt="Mission 03: Healthcare Claims Pipeline — EMR claims validation" /></a><a href="https://msaadshahid1.github.io/"><img src="./assets/card-portfolio.svg" width="50%" align="top" alt="Mission 04: Personal portfolio website" /></a>
 <img src="./assets/journey.svg" width="100%" align="top" alt="Origin story: career timeline from 2017 to now" />
+<img src="https://github.com/MSaadShahid1/MSaadShahid1/raw/output/training.svg" width="100%" align="top" alt="Training log: my contribution city — one tower for every day I contributed, with streaks and hero XP" />
 <a href="mailto:bilalft05@gmail.com"><img src="./assets/signal.svg" width="100%" align="top" alt="Need a hero for your next project? Send the signal: bilalft05@gmail.com" /></a>
 <img src="./assets/footer.svg" width="100%" align="top" alt="Thanks for watching — the whole cast takes a bow under the fireworks. To be continued!" />
 <br/><br/>
